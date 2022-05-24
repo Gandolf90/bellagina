@@ -620,8 +620,12 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #1d1b16;
+  background: #ffecce;
   margin-top: 110px;
+}
+.inner-page {
+  padding: 15px 0;
+  background: #ffecce;
 }
 @media (max-width: 992px) {
   .breadcrumbs {
