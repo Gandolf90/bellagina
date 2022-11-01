@@ -1530,3 +1530,21 @@ background-color: #ffecce;
 
   position: relative;
 }
+
+/*--------------------------------------------------------------
+# event
+--------------------------------------------------------------*/
+
+.event-img {
+  width:100%;
+  max-width:300px;
+  height: 200px;
+  max-height: 200px;
+
+  position: relative;
+  margin: auto;
+  top: 5px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
